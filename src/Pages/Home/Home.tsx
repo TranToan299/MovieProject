@@ -20,7 +20,7 @@ const Home = (props: Props) => {
     <section className='adv-app-mobile' id='adv-app-mobile' style={{height:'500px'}}>
       App
     </section>
-
+    
     </>
   )
 }
